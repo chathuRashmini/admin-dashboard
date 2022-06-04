@@ -58,7 +58,7 @@ const App = () => {
                                 <Route path='/Ecommerce' element={<Ecommerce/>} />
 
                                 {/* Pages */}
-                                {/* <Route path='/orders' element={<Orders />} /> */}
+                                <Route path='/orders' element={<Orders />} />
                                 <Route path='/employees' element={<Employees />} />
                                 <Route path='/customers' element={<Customers />} />
 
@@ -75,7 +75,7 @@ const App = () => {
                                 <Route path='/pie' element={<Pie />} />
                                 <Route path='/financial' element={<Financial />} />
                                 <Route path='/color-mapping' element={<ColorMapping />} />
-                                {/* <Route path='/pyramid' element={<Pyramid />} /> */}
+                                <Route path='/pyramid' element={<Pyramid />} />
                                 <Route path='/stack' element={<Stacked />} />
                             </Routes>
                         </div>

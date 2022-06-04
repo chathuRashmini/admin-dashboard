@@ -15,7 +15,7 @@ const Stacked = ({ height, width }) => {
         <ChartComponent
             width={width}
             height={height}
-            id='charts'
+            id='stacked-chart'
             primaryXAxis={stackedPrimaryXAxis}
             primaryYAxis={stackedPrimaryYAxis}
             chartArea={{ border: { width: 0 }}}
