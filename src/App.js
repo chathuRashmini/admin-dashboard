@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react'
+import React from 'react'
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import { FiSettings } from 'react-icons/fi'
 
@@ -82,9 +82,9 @@ const App = () => {
                                 <Route path='/stack' element={<Stacked />} />
                             </Routes>
                         </div>
-                    
+                        
+                        <Footer />
                     </div>
-
                 </div>
             </BrowserRouter>
         </div>
