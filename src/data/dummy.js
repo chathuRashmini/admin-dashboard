@@ -551,7 +551,7 @@ export const links = [
         icon: <GiLouvrePyramid />,
       },
       {
-        name: 'stacked',
+        name: 'stack',
         icon: <AiOutlineBarChart />,
       },
     ],
