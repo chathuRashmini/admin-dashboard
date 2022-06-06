@@ -1,70 +1,49 @@
-# Getting Started with Create React App
+# Shoppy - admin dashboard
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Shoppy is frontend project of an admin dashboard build up using ReactJS, Tailwind CSS and Synfusion components. This dashboard has features like,
+* Expense and Budget vaiations
+* Orders List
+* Customers List
+* Employees List
+* Calendar with tasks marked
+* A kanban board
+* An editor
+* A color Picker
 
-## Available Scripts
+There are a variety of charts -bar, pie, stacked, line, pyramid- to track different factors.
 
-In the project directory, you can run:
+Users can his own shopping cart, notifications, messages, and his user profile.
 
-### `npm start`
+User can select his own color theme and dark/light mode too.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Shoppy Pages
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Ecommerce Page
+![Ecommerce Page](https://github.com/chathuRashmini/admin-dashboard/blob/main/finalLook/1_ecommerce.png?raw=true)
 
-### `npm test`
+### Orders Page
+![Orders Page](https://github.com/chathuRashmini/admin-dashboard/blob/main/finalLook/2_orders.png?raw=true)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Customers Page
+![Customers Page](https://github.com/chathuRashmini/admin-dashboard/blob/main/finalLook/4_customers.png?raw=true)
 
-### `npm run build`
+### Employees Page
+![Employees Page](https://github.com/chathuRashmini/admin-dashboard/blob/main/finalLook/3_employees.png?raw=true)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Calendar
+![Calendar Page](https://github.com/chathuRashmini/admin-dashboard/blob/main/finalLook/5_calendar.png?raw=true)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Kanban Page
+![Kanban Page](https://github.com/chathuRashmini/admin-dashboard/blob/main/finalLook/6_kanban.png?raw=true)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Editor Page
+![Editor Page](https://github.com/chathuRashmini/admin-dashboard/blob/main/finalLook/7_editor.png?raw=true)
 
-### `npm run eject`
+### Color Picker Page
+![Color Picker Page](https://github.com/chathuRashmini/admin-dashboard/blob/main/finalLook/8_colorPicker.png?raw=true)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Charts Page
+![Charts Page](https://github.com/chathuRashmini/admin-dashboard/blob/main/finalLook/8_charts.png?raw=true)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Shopping Cart Page
+![Shopping Cart Page](https://github.com/chathuRashmini/admin-dashboard/blob/main/finalLook/9_shoppingCart.jpg?raw=true)
